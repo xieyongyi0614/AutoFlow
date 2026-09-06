@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AutoScroller</string>
+    <string name="accessibility_service_label">自动刷视频</string>
+    <string name="accessibility_service_description">用于模拟屏幕上滑手势，帮助自动浏览短视频。本服务不会读取或上传屏幕内容。</string>
 </resources>
